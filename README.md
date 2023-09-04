@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on-Frontend Web Development
-- 🌱 I’m currently learning-Javascript
-- 🤔 I’m looking for help with Data Structures and Algorithms
+- 🔭 I’m currently working Web Development
 - 📫 How to reach me: ritiknagpal21@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am addicted to Youtube
